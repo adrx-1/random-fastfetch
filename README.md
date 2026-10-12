@@ -24,7 +24,7 @@ The script also uses standard Linux utilities such as `find`, `shuf`, `head`, `t
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/random-fastfetch.git
+   git clone https://github.com/adrx-1/random-fastfetch.git
    cd random-fastfetch
    ```
 
