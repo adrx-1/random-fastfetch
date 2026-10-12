@@ -61,4 +61,35 @@ The script updates `~/.config/kitty/pywal-colors.conf` and attempts to reload Ki
 ## License
 
 See the `LICENSE` file.
+## Quick Install
 
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/adrx-1/random-fastfetch.git
+cd random-fastfetch
+```
+
+### 2. Run the installer
+
+```bash
+bash install.sh
+```
+
+The installer installs the required system packages, checks for pywal, and installs Random Fastfetch.
+
+**Supported systems:** CachyOS and Arch Linux.
+
+### 3. Add your images
+
+Place your PNG, JPG, JPEG or WebP images in:
+
+```text
+~/.config/fastfetch/images/
+```
+
+### 4. Run Random Fastfetch
+
+```bash
+~/.local/bin/random-fastfetch.sh
+```
